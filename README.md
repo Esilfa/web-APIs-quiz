@@ -34,4 +34,4 @@ The following animation demonstrates the application functionality:
 (./web-APIs-quiz/Mock-up/code-quiz-1.png),
 (./web-APIs-quiz/Mock-up/code-quiz-2.png),
 (./web-APIs-quiz/Mock-up/code-quiz-3.png),
-(/web-APIs-quiz/Mock-up/code-quiz-4.png)
+(../web-APIs-quiz/Mock-up/code-quiz-4.png)
