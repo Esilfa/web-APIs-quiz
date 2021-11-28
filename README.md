@@ -30,4 +30,8 @@ THEN I can save my initials and set my score on the board
 
 The following animation demonstrates the application functionality:
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.] (./web-APIs-quiz/Mock-up/code-quiz-1.png),(./web-APIs-quiz/Mock-up/code-quiz-2.png), (./web-APIs-quiz/Mock-up/code-quiz-3.png,(./web-APIs-quiz/Mock-up/code-quiz-4.png)
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.]
+(./web-APIs-quiz/Mock-up/code-quiz-1.png),
+(./web-APIs-quiz/Mock-up/code-quiz-2.png),
+(./web-APIs-quiz/Mock-up/code-quiz-3.png),
+(/web-APIs-quiz/Mock-up/code-quiz-4.png)
